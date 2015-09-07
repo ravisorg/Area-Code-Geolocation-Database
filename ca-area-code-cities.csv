@@ -1,6 +1,5 @@
 204,Winnipeg,Manitoba,CA,49.8844,-97.14704
 204,"Portage la Prairie",Manitoba,CA,49.97282,-98.29263
-204,Oakville,Ontario,CA,43.45011,-79.68292
 204,"Flin Flon",Manitoba,CA,54.76824,-101.86497
 204,Steinbach,Manitoba,CA,49.52579,-96.68451
 204,Thompson,Manitoba,CA,55.7435,-97.85579
@@ -10,13 +9,12 @@
 204,Morden,Manitoba,CA,49.1919,-98.10136
 204,Dauphin,Manitoba,CA,51.14941,-100.05023
 204,"The Pas",Manitoba,CA,53.82509,-101.25413
-204,Saint-Laurent,Québec,CA,45.50008,-73.66585
-204,Saint-Lazare,Québec,CA,45.40008,-74.13256
 226,Orangeville,Ontario,CA,43.9168,-80.09967
 226,Guelph,Ontario,CA,43.54594,-80.25599
 226,Brantford,Ontario,CA,43.1334,-80.26636
 226,London,Ontario,CA,42.98339,-81.23304
 226,"St. Thomas",Ontario,CA,42.77361,-81.18038
+226,Kitchener,Ontario,CA,43.42537,-80.5112
 226,Windsor,Ontario,CA,42.30008,-83.01654
 226,Goderich,Ontario,CA,43.75008,-81.71648
 226,Paris,Ontario,CA,43.2,-80.38333
@@ -28,7 +26,6 @@
 226,Hanover,Ontario,CA,44.15009,-81.03303
 226,Petrolia,Ontario,CA,42.86678,-82.14981
 226,Amherstburg,Ontario,CA,42.11679,-83.04985
-226,Moncton,"New Brunswick",CA,46.09454,-64.7965
 236,Victoria,"British Columbia",CA,48.43294,-123.3693
 236,Aldergrove,"British Columbia",CA,49.05801,-122.47087
 236,"West Vancouver","British Columbia",CA,49.36672,-123.16652
@@ -88,15 +85,16 @@
 250,Summerland,"British Columbia",CA,49.59977,-119.66911
 250,Cranbrook,"British Columbia",CA,49.49991,-115.76879
 250,Kimberley,"British Columbia",CA,49.67071,-115.9776
-250,Greenwood,"Nova Scotia",CA,44.97413,-64.93169
 250,"North Saanich","British Columbia",CA,48.66634,-123.41933
 250,Terrace,"British Columbia",CA,54.51634,-128.60345
 250,"Prince Rupert","British Columbia",CA,54.31507,-130.32098
 250,Sooke,"British Columbia",CA,48.37463,-123.72762
 250,Smithers,"British Columbia",CA,54.78036,-127.17428
+289,Ajax,Ontario,CA,43.85012,-79.03288
 289,Brampton,Ontario,CA,43.68341,-79.76633
 289,Ancaster,Ontario,CA,43.21806,-79.98716
 289,Burlington,Ontario,CA,43.38621,-79.83713
+289,"St. Catharines",Ontario,CA,43.17126,-79.24267
 289,Cobourg,Ontario,CA,43.95977,-78.16515
 289,Oakville,Ontario,CA,43.45011,-79.68292
 289,Oshawa,Ontario,CA,43.90012,-78.84957
@@ -112,7 +110,6 @@
 289,Uxbridge,Ontario,CA,44.10012,-79.11628
 289,"Port Colborne",Ontario,CA,42.90012,-79.23288
 289,Keswick,Ontario,CA,44.25011,-79.46632
-289,Victoria,"British Columbia",CA,48.43294,-123.3693
 306,Regina,Saskatchewan,CA,50.45008,-104.6178
 306,Saskatoon,Saskatchewan,CA,52.11679,-106.63452
 306,"North Battleford",Saskatchewan,CA,52.77972,-108.2967
@@ -124,6 +121,8 @@
 306,"Swift Current",Saskatchewan,CA,50.28337,-107.80135
 306,Yorkton,Saskatchewan,CA,51.2167,-102.46766
 306,Weyburn,Saskatchewan,CA,49.66675,-103.85109
+343,Clarence-Rockland,Ontario,CA,45.5501,-75.29101
+343,Ottawa,Ontario,CA,45.41117,-75.69812
 343,"Carleton Place",Ontario,CA,45.13341,-76.14938
 343,Brockville,Ontario,CA,44.59132,-75.68705
 343,Belleville,Ontario,CA,44.16682,-77.38277
@@ -159,37 +158,54 @@
 403,Lacombe,Alberta,CA,52.46681,-113.7353
 403,"Sylvan Lake",Alberta,CA,52.31681,-114.0853
 416,Toronto,Ontario,CA,43.70011,-79.4163
-416,"West Vancouver","British Columbia",CA,49.36672,-123.16652
+416,Ancaster,Ontario,CA,43.21806,-79.98716
 418,Baie-Saint-Paul,Québec,CA,47.44109,-70.49858
 418,"La Malbaie",Québec,CA,47.654,-70.15268
+418,Saint-Jean-sur-Richelieu,Québec,CA,45.30713,-73.26259
 418,Québec,Québec,CA,46.81228,-71.21454
 418,Saint-Lambert-de-Lauzon,Québec,CA,46.58624,-71.20892
 418,Montmagny,Québec,CA,46.98043,-70.55493
+418,Sainte-Marie,Québec,CA,46.43401,-71.01168
 418,Alma,Québec,CA,48.55009,-71.6491
 418,Jonquière,Québec,CA,48.41648,-71.24884
 418,Saint-Raymond,Québec,CA,45.46698,-73.60948
 418,Beauceville,Québec,CA,46.21785,-70.77873
 418,Saint-Félicien,Québec,CA,48.65007,-72.44906
+418,Matane,Québec,CA,48.82857,-67.52197
+418,Sainte-Anne-des-Plaines,Québec,CA,45.76468,-73.81156
+418,Dolbeau-Mistassini,Québec,CA,48.8786,-72.23142
+418,"La Tuque",Québec,CA,47.43337,-72.7824
+418,Sainte-Marthe-sur-le-Lac,Québec,CA,45.53338,-73.9325
+418,Rivière-du-Loup,Québec,CA,47.82699,-69.54243
 418,Roberval,Québec,CA,48.5168,-72.23244
-418,Baie-Comeau,Québec,CA,49.21679,-68.14894
 418,Thetford-Mines,Québec,CA,46.09371,-71.30539
 418,Donnacona,Québec,CA,46.68042,-71.7239
-418,Rivière-du-Loup,Québec,CA,47.82699,-69.54243
-418,Lévis,Québec,CA,46.80326,-71.17793
+418,Baie-Comeau,Québec,CA,49.21679,-68.14894
+418,Saint-Henri,Québec,CA,46.69314,-71.06927
+418,Notre-Dame-des-Prairies,Québec,CA,46.05007,-73.43245
 418,Rimouski,Québec,CA,48.44879,-68.52396
+418,Saint-Augustin-de-Desmaures,Québec,CA,46.74064,-71.45131
+418,Saint-Basile-le-Grand,Québec,CA,45.53338,-73.28246
 418,Amqui,Québec,CA,48.46382,-67.43134
 418,Sept-Îles,Québec,CA,50.20011,-66.38208
 418,Gaspé,Québec,CA,48.83341,-64.48194
+418,Val-des-Monts,Québec,CA,45.6501,-75.66604
+418,Port-Cartier,Québec,CA,50.03339,-66.86545
 418,Chandler,Québec,CA,48.34935,-64.67926
 418,Pont-Rouge,Québec,CA,46.75468,-71.69566
-418,Matane,Québec,CA,48.82857,-67.52197
-418,Stratford,Ontario,CA,43.36679,-80.94972
-418,Port-Cartier,Québec,CA,50.03339,-66.86545
-418,Saint-Henri,Québec,CA,46.69314,-71.06927
+418,Val-d'Or,Québec,CA,48.10018,-77.7828
+418,Sainte-Catherine,Québec,CA,46.31836,-72.56632
+418,Trois-Rivières,Québec,CA,46.34515,-72.5477
+418,Sainte-Agathe-des-Monts,Québec,CA,46.05009,-74.28252
+418,Laval,Québec,CA,45.56995,-73.692
+418,Côte-Saint-Luc,Québec,CA,45.46536,-73.66585
+418,Sainte-Adèle,Québec,CA,45.95008,-74.13251
 418,Chibougamau,Québec,CA,49.91684,-74.36586
 418,Sainte-Anne-des-Monts,Québec,CA,49.12402,-66.49243
 418,Mont-Joli,Québec,CA,48.58388,-68.19214
-418,"West Vancouver","British Columbia",CA,49.36672,-123.16652
+418,Pointe-Claire,Québec,CA,45.44868,-73.81669
+418,Saint-Lin-Laurentides,Québec,CA,45.85008,-73.76588
+418,Notre-Dame-de-l'Île-Perrot,Québec,CA,45.36678,-73.9325
 431,Winnipeg,Manitoba,CA,49.8844,-97.14704
 431,Steinbach,Manitoba,CA,49.52579,-96.68451
 431,Brandon,Manitoba,CA,49.84692,-99.95306
@@ -203,57 +219,74 @@
 431,"Portage la Prairie",Manitoba,CA,49.97282,-98.29263
 437,Toronto,Ontario,CA,43.70011,-79.4163
 438,Montréal-Ouest,Québec,CA,45.45286,-73.64918
+438,Notre-Dame-de-l'Île-Perrot,Québec,CA,45.36678,-73.9325
 438,Pointe-Claire,Québec,CA,45.44868,-73.81669
+438,Sainte-Adèle,Québec,CA,45.95008,-74.13251
 450,Châteauguay,Québec,CA,45.38338,-73.74919
 450,Hudson,Québec,CA,45.45008,-74.14922
 450,Granby,Québec,CA,45.40008,-72.73243
+450,Sainte-Anne-des-Plaines,Québec,CA,45.76468,-73.81156
 450,Lachute,Québec,CA,45.65008,-74.33253
+450,Saint-Lambert-de-Lauzon,Québec,CA,46.58624,-71.20892
 450,Saint-Hyacinthe,Québec,CA,45.63076,-72.95699
-450,"St. John's","Newfoundland and Labrador",CA,47.56494,-52.70931
+450,Saint-Jean-sur-Richelieu,Québec,CA,45.30713,-73.26259
+450,Sainte-Adèle,Québec,CA,45.95008,-74.13251
+450,Saint-Lin-Laurentides,Québec,CA,45.85008,-73.76588
+450,Vaudreuil-Dorion,Québec,CA,45.40008,-74.03251
+450,Salaberry-de-Valleyfield,Québec,CA,45.25008,-74.13253
 450,Beauharnois,Québec,CA,45.31341,-73.8725
 450,Saint-Sauveur,Québec,CA,45.88686,-74.17943
-450,Sainte-Adèle,Québec,CA,45.95008,-74.13251
+450,Laval,Québec,CA,45.56995,-73.692
+450,Baie-Saint-Paul,Québec,CA,47.44109,-70.49858
 450,"Acton Vale",Québec,CA,45.65007,-72.56582
+450,Québec,Québec,CA,46.81228,-71.21454
 450,Sorel-Tracy,Québec,CA,46.03336,-73.11585
+450,Pont-Rouge,Québec,CA,46.75468,-71.69566
+450,Mirabel,Québec,CA,45.65008,-74.08251
 450,Cowansville,Québec,CA,45.20008,-72.74913
 450,Beloeil,Québec,CA,45.56678,-73.19915
+450,Rivière-du-Loup,Québec,CA,47.82699,-69.54243
 450,Joliette,Québec,CA,46.01677,-73.44915
 450,Boucherville,Québec,CA,45.59104,-73.43605
 450,Saint-Jérôme,Québec,CA,45.78036,-74.00365
 450,Chambly,Québec,CA,45.45008,-73.28246
 450,"La Prairie",Québec,CA,45.41678,-73.49917
+450,Saint-Bruno-de-Montarville,Québec,CA,45.53341,-73.34916
 450,Varennes,Québec,CA,45.68338,-73.43246
 450,Longueuil,Québec,CA,45.53121,-73.51806
 450,Saint-Constant,Québec,CA,45.36678,-73.56588
 450,Farnham,Québec,CA,45.28338,-72.98244
+450,Notre-Dame-des-Prairies,Québec,CA,46.05007,-73.43245
+450,Sainte-Marthe-sur-le-Lac,Québec,CA,45.53338,-73.9325
 450,Terrebonne,Québec,CA,45.70004,-73.64732
 450,Mascouche,Québec,CA,45.74965,-73.59956
 450,Saint-Eustache,Québec,CA,45.565,-73.90554
+450,Sainte-Julie,Québec,CA,45.58338,-73.33246
 450,Rawdon,Québec,CA,46.05007,-73.71587
 450,Lavaltrie,Québec,CA,45.88338,-73.28245
+450,Brownsburg-Chatham,Québec,CA,45.68342,-74.4159
+450,Saint-Augustin-de-Desmaures,Québec,CA,46.74064,-71.45131
 450,Marieville,Québec,CA,45.43338,-73.16585
 450,Bromont,Québec,CA,45.31678,-72.64912
-450,Waterloo,Ontario,CA,43.4668,-80.51639
+450,L'Assomption,Québec,CA,45.82318,-73.4294
 506,Edmundston,"New Brunswick",CA,47.3737,-68.32512
-506,"St. John's","Newfoundland and Labrador",CA,47.56494,-52.70931
+506,"Saint John","New Brunswick",CA,45.27271,-66.06766
 506,Moncton,"New Brunswick",CA,46.09454,-64.7965
 506,Fredericton,"New Brunswick",CA,45.94541,-66.66558
 506,Oromocto,"New Brunswick",CA,45.83512,-66.47917
-506,Keswick,Ontario,CA,44.25011,-79.46632
 506,Miramichi,"New Brunswick",CA,47.02895,-65.50186
-506,Dorchester,Ontario,CA,42.98339,-81.06643
 506,Bathurst,"New Brunswick",CA,47.61814,-65.65112
-506,Woodstock,Ontario,CA,43.13339,-80.7497
 506,Campbellton,"New Brunswick",CA,48.00751,-66.67272
 506,Sackville,"New Brunswick",CA,45.91875,-64.38455
-506,Saint-Léonard,Québec,CA,45.58773,-73.59501
-506,Alma,Québec,CA,48.55009,-71.6491
-514,"West Vancouver","British Columbia",CA,49.36672,-123.16652
+514,Jonquière,Québec,CA,48.41648,-71.24884
 514,Montréal-Ouest,Québec,CA,45.45286,-73.64918
+514,Sainte-Adèle,Québec,CA,45.95008,-74.13251
 514,Pointe-Claire,Québec,CA,45.44868,-73.81669
+514,Notre-Dame-de-l'Île-Perrot,Québec,CA,45.36678,-73.9325
 519,London,Ontario,CA,42.98339,-81.23304
 519,Dorchester,Ontario,CA,42.98339,-81.06643
 519,"St. Thomas",Ontario,CA,42.77361,-81.18038
+519,Kitchener,Ontario,CA,43.42537,-80.5112
 519,Brantford,Ontario,CA,43.1334,-80.26636
 519,Orangeville,Ontario,CA,43.9168,-80.09967
 519,Windsor,Ontario,CA,42.30008,-83.01654
@@ -264,66 +297,94 @@
 519,Paris,Ontario,CA,43.2,-80.38333
 519,Ingersoll,Ontario,CA,43.03339,-80.88302
 519,Sarnia,Ontario,CA,42.97866,-82.40407
-519,Moncton,"New Brunswick",CA,46.09454,-64.7965
 519,Hanover,Ontario,CA,44.15009,-81.03303
 519,Goderich,Ontario,CA,43.75008,-81.71648
 519,Amherstburg,Ontario,CA,42.11679,-83.04985
 519,Aylmer,Ontario,CA,42.76679,-80.98302
 519,Petrolia,Ontario,CA,42.86678,-82.14981
-519,"West Vancouver","British Columbia",CA,49.36672,-123.16652
+519,Ancaster,Ontario,CA,43.21806,-79.98716
 579,Cowansville,Québec,CA,45.20008,-72.74913
 579,Granby,Québec,CA,45.40008,-72.73243
 579,Longueuil,Québec,CA,45.53121,-73.51806
 579,Boucherville,Québec,CA,45.59104,-73.43605
+579,Vaudreuil-Dorion,Québec,CA,45.40008,-74.03251
+579,Laval,Québec,CA,45.56995,-73.692
 579,Chambly,Québec,CA,45.45008,-73.28246
 579,"La Prairie",Québec,CA,45.41678,-73.49917
 579,Marieville,Québec,CA,45.43338,-73.16585
-579,"St. John's","Newfoundland and Labrador",CA,47.56494,-52.70931
+579,Saint-Bruno-de-Montarville,Québec,CA,45.53341,-73.34916
+579,Saint-Jean-sur-Richelieu,Québec,CA,45.30713,-73.26259
 579,Saint-Hyacinthe,Québec,CA,45.63076,-72.95699
+579,Sainte-Adèle,Québec,CA,45.95008,-74.13251
 579,Beloeil,Québec,CA,45.56678,-73.19915
 579,Mascouche,Québec,CA,45.74965,-73.59956
+579,Pont-Rouge,Québec,CA,46.75468,-71.69566
 579,Saint-Jérôme,Québec,CA,45.78036,-74.00365
+579,Saint-Lambert-de-Lauzon,Québec,CA,46.58624,-71.20892
+579,Baie-Saint-Paul,Québec,CA,47.44109,-70.49858
 579,Sorel-Tracy,Québec,CA,46.03336,-73.11585
 579,Joliette,Québec,CA,46.01677,-73.44915
+579,Salaberry-de-Valleyfield,Québec,CA,45.25008,-74.13253
 579,Saint-Eustache,Québec,CA,45.565,-73.90554
+579,Sainte-Julie,Québec,CA,45.58338,-73.33246
+579,Mirabel,Québec,CA,45.65008,-74.08251
 579,Bromont,Québec,CA,45.31678,-72.64912
 579,Rawdon,Québec,CA,46.05007,-73.71587
 579,Lavaltrie,Québec,CA,45.88338,-73.28245
+579,L'Assomption,Québec,CA,45.82318,-73.4294
 579,Saint-Constant,Québec,CA,45.36678,-73.56588
 579,Châteauguay,Québec,CA,45.38338,-73.74919
-579,Waterloo,Ontario,CA,43.4668,-80.51639
+579,Notre-Dame-des-Prairies,Québec,CA,46.05007,-73.43245
+579,Sainte-Anne-des-Plaines,Québec,CA,45.76468,-73.81156
 579,Lachute,Québec,CA,45.65008,-74.33253
 579,Terrebonne,Québec,CA,45.70004,-73.64732
+579,Saint-Augustin-de-Desmaures,Québec,CA,46.74064,-71.45131
 579,Saint-Sauveur,Québec,CA,45.88686,-74.17943
 581,Alma,Québec,CA,48.55009,-71.6491
 581,Québec,Québec,CA,46.81228,-71.21454
+581,Saint-Lambert-de-Lauzon,Québec,CA,46.58624,-71.20892
+581,Dolbeau-Mistassini,Québec,CA,48.8786,-72.23142
 581,Rivière-du-Loup,Québec,CA,47.82699,-69.54243
+581,Sainte-Marthe-sur-le-Lac,Québec,CA,45.53338,-73.9325
 581,Roberval,Québec,CA,48.5168,-72.23244
 581,Saint-Félicien,Québec,CA,48.65007,-72.44906
+581,Sainte-Marie,Québec,CA,46.43401,-71.01168
 581,Matane,Québec,CA,48.82857,-67.52197
 581,Baie-Saint-Paul,Québec,CA,47.44109,-70.49858
 581,"La Malbaie",Québec,CA,47.654,-70.15268
 581,Rimouski,Québec,CA,48.44879,-68.52396
 581,Jonquière,Québec,CA,48.41648,-71.24884
-581,Lévis,Québec,CA,46.80326,-71.17793
+581,Saint-Henri,Québec,CA,46.69314,-71.06927
 581,Thetford-Mines,Québec,CA,46.09371,-71.30539
+581,Sainte-Anne-des-Plaines,Québec,CA,45.76468,-73.81156
 581,Montmagny,Québec,CA,46.98043,-70.55493
-581,Stratford,Ontario,CA,43.36679,-80.94972
+581,Saint-Jean-sur-Richelieu,Québec,CA,45.30713,-73.26259
 581,Port-Cartier,Québec,CA,50.03339,-66.86545
+581,"La Tuque",Québec,CA,47.43337,-72.7824
 581,Sept-Îles,Québec,CA,50.20011,-66.38208
 581,Pont-Rouge,Québec,CA,46.75468,-71.69566
 581,Amqui,Québec,CA,48.46382,-67.43134
+581,Val-d'Or,Québec,CA,48.10018,-77.7828
 581,Sainte-Anne-des-Monts,Québec,CA,49.12402,-66.49243
+581,Saint-Basile-le-Grand,Québec,CA,45.53338,-73.28246
 581,Donnacona,Québec,CA,46.68042,-71.7239
+581,Mont-Joli,Québec,CA,48.58388,-68.19214
 581,Gaspé,Québec,CA,48.83341,-64.48194
-581,Saint-Henri,Québec,CA,46.69314,-71.06927
+581,Pointe-Claire,Québec,CA,45.44868,-73.81669
 581,Chandler,Québec,CA,48.34935,-64.67926
-581,Baie-Comeau,Québec,CA,49.21679,-68.14894
+581,Sainte-Adèle,Québec,CA,45.95008,-74.13251
 581,Beauceville,Québec,CA,46.21785,-70.77873
+581,Sainte-Agathe-des-Monts,Québec,CA,46.05009,-74.28252
 581,Chibougamau,Québec,CA,49.91684,-74.36586
+581,Notre-Dame-des-Prairies,Québec,CA,46.05007,-73.43245
+581,Laval,Québec,CA,45.56995,-73.692
+581,Sainte-Catherine,Québec,CA,46.31836,-72.56632
+581,Trois-Rivières,Québec,CA,46.34515,-72.5477
+581,Saint-Lin-Laurentides,Québec,CA,45.85008,-73.76588
+581,Val-des-Monts,Québec,CA,45.6501,-75.66604
+581,Notre-Dame-de-l'Île-Perrot,Québec,CA,45.36678,-73.9325
 587,Bonnyville,Alberta,CA,54.26684,-110.73505
 587,Calgary,Alberta,CA,51.05011,-114.08529
-587,Lloydminster,Saskatchewan,CA,53.28346,-110.00157
 587,Lethbridge,Alberta,CA,49.69999,-112.81856
 587,Banff,Alberta,CA,51.17622,-115.56982
 587,"St. Albert",Alberta,CA,53.63344,-113.63533
@@ -383,6 +444,7 @@
 604,"Port Moody","British Columbia",CA,49.28297,-122.85263
 604,Gibsons,"British Columbia",CA,49.39539,-123.50555
 613,Perth,Ontario,CA,44.90011,-76.24939
+613,Ottawa,Ontario,CA,45.41117,-75.69812
 613,"Smiths Falls",Ontario,CA,44.90452,-76.02333
 613,Cornwall,Ontario,CA,45.01809,-74.72815
 613,Belleville,Ontario,CA,44.16682,-77.38277
@@ -393,12 +455,11 @@
 613,Hawkesbury,Ontario,CA,45.60009,-74.61595
 613,"Greater Napanee",Ontario,CA,44.25012,-76.94944
 613,Gananoque,Ontario,CA,44.33342,-76.16607
+613,Clarence-Rockland,Ontario,CA,45.5501,-75.29101
 613,Renfrew,Ontario,CA,45.46681,-76.68272
-613,Richmond,"British Columbia",CA,49.17003,-123.13683
 613,Petawawa,Ontario,CA,45.89452,-77.28007
-613,Delta,"British Columbia",CA,49.14399,-122.9068
 613,Arnprior,Ontario,CA,45.43341,-76.34939
-613,"West Vancouver","British Columbia",CA,49.36672,-123.16652
+613,Ancaster,Ontario,CA,43.21806,-79.98716
 639,"Prince Albert",Saskatchewan,CA,53.20008,-105.76772
 639,Regina,Saskatchewan,CA,50.45008,-104.6178
 639,Saskatoon,Saskatchewan,CA,52.11679,-106.63452
@@ -415,27 +476,23 @@
 705,Timmins,Ontario,CA,48.46686,-81.33312
 705,"North Bay",Ontario,CA,46.3168,-79.46633
 705,Huntsville,Ontario,CA,45.33341,-79.21632
+705,Angus,Ontario,CA,44.31681,-79.88295
 705,Orillia,Ontario,CA,44.60868,-79.42068
 705,"Elliot Lake",Ontario,CA,46.38336,-82.63315
-705,Cochrane,Alberta,CA,51.18341,-114.46871
 705,Collingwood,Ontario,CA,44.4834,-80.21638
 705,Kapuskasing,Ontario,CA,49.41694,-82.43308
 705,"Wasaga Beach",Ontario,CA,44.5168,-80.01637
 705,"Temiskaming Shores",Ontario,CA,47.49376,-79.71529
 705,"Kirkland Lake",Ontario,CA,48.14461,-80.03767
 705,Gravenhurst,Ontario,CA,44.91681,-79.36633
-705,"West Vancouver","British Columbia",CA,49.36672,-123.16652
+705,Ancaster,Ontario,CA,43.21806,-79.98716
 709,Stephenville,"Newfoundland and Labrador",CA,48.55001,-58.5818
 709,"Corner Brook","Newfoundland and Labrador",CA,48.95001,-57.95202
 709,"Happy Valley-Goose Bay","Newfoundland and Labrador",CA,53.31685,-60.33153
 709,"St. John's","Newfoundland and Labrador",CA,47.56494,-52.70931
 709,"Bay Roberts","Newfoundland and Labrador",CA,47.59989,-53.26478
-709,Burlington,Ontario,CA,43.38621,-79.83713
-709,Campbellton,"New Brunswick",CA,48.00751,-66.67272
-709,Beaumont,Alberta,CA,53.35013,-113.41871
+709,"Grand Falls-Windsor","Newfoundland and Labrador",CA,48.93324,-55.66492
 709,Carbonear,"Newfoundland and Labrador",CA,47.73319,-53.21478
-709,Charlottetown,"Prince Edward Island",CA,46.23525,-63.12671
-709,Summerside,"Prince Edward Island",CA,46.39593,-63.78762
 778,"West Vancouver","British Columbia",CA,49.36672,-123.16652
 778,Abbotsford,"British Columbia",CA,49.05798,-122.25257
 778,Smithers,"British Columbia",CA,54.78036,-127.17428
@@ -489,7 +546,6 @@
 780,Bonnyville,Alberta,CA,54.26684,-110.73505
 780,"Drayton Valley",Alberta,CA,53.21682,-114.98544
 780,Whitecourt,Alberta,CA,54.15015,-115.68548
-780,Lloydminster,Saskatchewan,CA,53.28346,-110.00157
 780,Westlock,Alberta,CA,54.15016,-113.86876
 780,Vegreville,Alberta,CA,53.50015,-112.05182
 780,"Fort McMurray",Alberta,CA,56.72676,-111.38103
@@ -518,34 +574,43 @@
 807,Dryden,Ontario,CA,49.78334,-92.75032
 807,"Thunder Bay",Ontario,CA,48.38202,-89.25018
 807,"Fort Frances",Ontario,CA,48.59988,-93.4003
-807,Hudson,Québec,CA,45.45008,-74.14922
-807,"West Vancouver","British Columbia",CA,49.36672,-123.16652
+807,Ancaster,Ontario,CA,43.21806,-79.98716
 819,Sherbrooke,Québec,CA,45.40008,-71.89908
 819,Magog,Québec,CA,45.26678,-72.14909
 819,Mont-Laurier,Québec,CA,46.55011,-75.4993
+819,Notre-Dame-des-Prairies,Québec,CA,46.05007,-73.43245
+819,Sainte-Marthe-sur-le-Lac,Québec,CA,45.53338,-73.9325
+819,Sainte-Agathe-des-Monts,Québec,CA,46.05009,-74.28252
 819,Amos,Québec,CA,48.56688,-78.11624
+819,Sainte-Adèle,Québec,CA,45.95008,-74.13251
 819,Asbestos,Québec,CA,45.76678,-71.9324
+819,Saint-Lambert-de-Lauzon,Québec,CA,46.58624,-71.20892
 819,Louiseville,Québec,CA,46.25594,-72.94145
 819,Princeville,Québec,CA,46.17163,-71.87462
 819,Trois-Rivières,Québec,CA,46.34515,-72.5477
 819,Shawinigan,Québec,CA,46.56675,-72.74913
 819,Drummondville,Québec,CA,45.88336,-72.48241
-819,Angus,Ontario,CA,44.31681,-79.88295
 819,Plessisville,Québec,CA,46.21856,-71.76201
 819,Nicolet,Québec,CA,46.21676,-72.61582
+819,Val-des-Monts,Québec,CA,45.6501,-75.66604
 819,Val-d'Or,Québec,CA,48.10018,-77.7828
 819,Rouyn-Noranda,Québec,CA,48.23656,-79.02311
+819,Sainte-Marie,Québec,CA,46.43401,-71.01168
 819,Bécancour,Québec,CA,46.33336,-72.43241
 819,"La Sarre",Québec,CA,48.80019,-79.19964
 819,Victoriaville,Québec,CA,46.05007,-71.96579
 819,Gatineau,Québec,CA,45.47723,-75.70164
-819,Aylmer,Ontario,CA,42.76679,-80.98302
-819,"St. Albert",Alberta,CA,53.63344,-113.63533
+819,Saint-Léonard,Québec,CA,45.58773,-73.59501
+819,Saint-Basile-le-Grand,Québec,CA,45.53338,-73.28246
+819,Bois-des-Filion,Québec,CA,45.66678,-73.74918
 819,Coaticook,Québec,CA,45.13339,-71.79907
-819,Windsor,Ontario,CA,42.30008,-83.01654
-819,Richmond,"British Columbia",CA,49.17003,-123.13683
+819,Windsor,Québec,CA,45.56678,-71.99909
 819,"La Tuque",Québec,CA,47.43337,-72.7824
-819,"West Vancouver","British Columbia",CA,49.36672,-123.16652
+819,Sainte-Anne-des-Plaines,Québec,CA,45.76468,-73.81156
+819,Saint-Jean-sur-Richelieu,Québec,CA,45.30713,-73.26259
+819,Saint-Bruno-de-Montarville,Québec,CA,45.53341,-73.34916
+819,Rivière-du-Loup,Québec,CA,47.82699,-69.54243
+819,Jonquière,Québec,CA,48.41648,-71.24884
 825,Calgary,Alberta,CA,51.05011,-114.08529
 825,Edmonton,Alberta,CA,53.55014,-113.46871
 825,"Red Deer",Alberta,CA,52.26682,-113.802
@@ -555,10 +620,14 @@
 867,Iqaluit,Nunavut,CA,63.74697,-68.51727
 867,Whitehorse,"Yukon Territory",CA,60.71611,-135.05375
 873,Sherbrooke,Québec,CA,45.40008,-71.89908
+873,Sainte-Adèle,Québec,CA,45.95008,-74.13251
 873,Trois-Rivières,Québec,CA,46.34515,-72.5477
 873,Drummondville,Québec,CA,45.88336,-72.48241
 873,Shawinigan,Québec,CA,46.56675,-72.74913
+873,Saint-Lambert-de-Lauzon,Québec,CA,46.58624,-71.20892
+873,Sainte-Agathe-des-Monts,Québec,CA,46.05009,-74.28252
 873,Victoriaville,Québec,CA,46.05007,-71.96579
+873,Sainte-Marie,Québec,CA,46.43401,-71.01168
 873,Rouyn-Noranda,Québec,CA,48.23656,-79.02311
 873,"La Sarre",Québec,CA,48.80019,-79.19964
 873,Val-d'Or,Québec,CA,48.10018,-77.7828
@@ -566,30 +635,24 @@
 873,Coaticook,Québec,CA,45.13339,-71.79907
 873,Amos,Québec,CA,48.56688,-78.11624
 873,Gatineau,Québec,CA,45.47723,-75.70164
-873,Aylmer,Ontario,CA,42.76679,-80.98302
 873,Louiseville,Québec,CA,46.25594,-72.94145
+873,Val-des-Monts,Québec,CA,45.6501,-75.66604
 873,"La Tuque",Québec,CA,47.43337,-72.7824
 873,Magog,Québec,CA,45.26678,-72.14909
-873,Angus,Ontario,CA,44.31681,-79.88295
+873,Notre-Dame-des-Prairies,Québec,CA,46.05007,-73.43245
+873,Sainte-Marthe-sur-le-Lac,Québec,CA,45.53338,-73.9325
 902,Charlottetown,"Prince Edward Island",CA,46.23525,-63.12671
 902,Sydney,"Nova Scotia",CA,46.1351,-60.1831
 902,Halifax,"Nova Scotia",CA,44.64533,-63.57239
 902,Bridgewater,"Nova Scotia",CA,44.37856,-64.51882
-902,Collingwood,Ontario,CA,44.4834,-80.21638
-902,"West Vancouver","British Columbia",CA,49.36672,-123.16652
-902,Kingston,Ontario,CA,44.22976,-76.48098
-902,Sackville,"New Brunswick",CA,45.91875,-64.38455
-902,"North Bay",Ontario,CA,46.3168,-79.46633
 902,"Glace Bay","Nova Scotia",CA,46.19695,-59.95698
 902,Amherst,"Nova Scotia",CA,45.83345,-64.19874
 902,Kentville,"Nova Scotia",CA,45.0771,-64.49605
 902,"New Glasgow","Nova Scotia",CA,45.58344,-62.64863
 902,Summerside,"Prince Edward Island",CA,46.39593,-63.78762
 902,Truro,"Nova Scotia",CA,45.36685,-63.26538
-902,Windsor,Ontario,CA,42.30008,-83.01654
 902,Yarmouth,"Nova Scotia",CA,43.83345,-66.11557
 902,Antigonish,"Nova Scotia",CA,45.61685,-61.99858
-902,Sherbrooke,Québec,CA,45.40008,-71.89908
 905,Markham,Ontario,CA,43.86682,-79.2663
 905,Milton,Ontario,CA,43.51681,-79.88294
 905,Cobourg,Ontario,CA,43.95977,-78.16515
@@ -599,14 +662,14 @@
 905,Hamilton,Ontario,CA,43.25011,-79.84963
 905,Burlington,Ontario,CA,43.38621,-79.83713
 905,"Richmond Hill",Ontario,CA,43.87111,-79.43725
+905,"St. Catharines",Ontario,CA,43.17126,-79.24267
+905,Ajax,Ontario,CA,43.85012,-79.03288
 905,Newmarket,Ontario,CA,44.05011,-79.46631
 905,Pickering,Ontario,CA,43.90012,-79.13289
 905,"Niagara Falls",Ontario,CA,43.10012,-79.06627
 905,Ancaster,Ontario,CA,43.21806,-79.98716
 905,Welland,Ontario,CA,42.98342,-79.24958
 905,Keswick,Ontario,CA,44.25011,-79.46632
-905,Selkirk,Manitoba,CA,50.1436,-96.88452
 905,"Port Colborne",Ontario,CA,42.90012,-79.23288
-905,Victoria,"British Columbia",CA,48.43294,-123.3693
 905,Uxbridge,Ontario,CA,44.10012,-79.11628
 905,"Fort Erie",Ontario,CA,42.90012,-78.93286
